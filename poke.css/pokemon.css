@@ -1,0 +1,32 @@
+.contain{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.textosIniciales{
+    text-align: center;
+    
+}
+div img{
+    align-items: center;
+}
+.pokemon{
+    display: grid;
+}
+
+.textosIniciales{
+    display: grid;
+}
+
+button{
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+
+#mensaje{
+    background-color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
